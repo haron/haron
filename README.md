@@ -14,3 +14,4 @@ Telegram bots:
 Other things:
 
 * [Today I Learned](https://www.alexryabov.com/til/)
+* [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - Bash script to install Tailscale in unsupported countries

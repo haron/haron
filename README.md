@@ -4,6 +4,7 @@
 
 Telegram bots:
 
+* [\@Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
 * [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique.
 * [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name.
 * [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.
@@ -16,5 +17,5 @@ Other things:
 * [Today I Learned](https://www.alexryabov.com/til/)
 * [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - Bash script to install Tailscale in unsupported countries
 * [yt-summarize.sh](https://github.com/haron/yt-summarize.sh) - Summarize Youtube video with a bash script, using subtitles from Youtube
-* [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - Download Youtube videos transcripts
+* [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - CLI tool and Python library to download Youtube videos transcripts
 * [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - Transcribe Youtube video using Whisper, the summarize it with Llama model

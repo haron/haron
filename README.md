@@ -4,7 +4,7 @@
 
 Telegram bots:
 
-* [\@Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
+* [Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
 * [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique.
 * [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name.
 * [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.

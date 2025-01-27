@@ -4,6 +4,7 @@
 
 Telegram bots:
 
+* [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
 * [Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
 * [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique.
 * [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name.

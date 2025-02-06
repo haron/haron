@@ -1,3 +1,7 @@
+Systems guy: keeping things up & automated. Sysadmin, DevOps, SRE. Also, some programming.
+
+Moscow 🛫 Yerevan 🛫 Tel Aviv.
+
 ### My projects:
 
 * [ch2rss](https://ch2rss.fflow.net) - Convert any Telegram channel into RSS feed

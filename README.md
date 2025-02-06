@@ -10,11 +10,11 @@ Telegram bots:
 
 * [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
 * [Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
-* [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique.
-* [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name.
+* [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique. Counted 60M minutes in 200K Telegram chats during 10 years.
+* [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name. Bothering you with alerts since 2015.
 * [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.
 * [\@upscale_me_bot](https://t.me/upscale_me_bot) - Photo upscaler bot.
-* [\@SnoozeBot](https://t.me/snoozebot) - Reminds you about the message after some time, be it tomorrow or in 3 years.
+* [\@SnoozeBot](https://t.me/snoozebot) - Reminds you about the message after some time, be it tomorrow or in 5 years.
 * [\@WindSpeedBot](https://t.me/windspeedbot) - Alerts you about wind speed at chosen locations. For example, it can send you a message if tomorrow's wind is expected to be stronger than 5 m/s.
 
 Other things:

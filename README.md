@@ -20,6 +20,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 ### Other things:
 
 * [Today I Learned](https://www.alexryabov.com/til/)
+* [How to deploy with Github Actions in Tailscale VPN](https://github.com/haron/tailscale-github-deploy)
 * [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - Bash script to install Tailscale in unsupported countries
 * [yt-summarize.sh](https://github.com/haron/yt-summarize.sh) - Summarize Youtube video with a bash script, using subtitles from Youtube
 * [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - CLI tool and Python library to download Youtube videos transcripts

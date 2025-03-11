@@ -16,7 +16,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 ### My Telegram bots:
 
 * [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
-* [Plato bot](https://t.me/platon_platon_bot) - Summarize an article or Youtube video as a Platonic dialog.
+* [\@platon_platon_bot](https://t.me/platon_platon_bot) - Plato bot summarizes articles and Youtube videos as a Platonic dialog.
 * [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique. Counted 60M minutes in 200K Telegram chats during 10 years.
 * [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name. Bothering you with alerts since 2015.
 * [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.

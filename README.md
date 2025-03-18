@@ -7,7 +7,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 ## My projects:
 
 * [ch2rss](https://ch2rss.fflow.net) - Convert any Telegram channel into RSS feed
-* [Cookiecutter template](https://github.com/haron/python-project-template) for a Python project with linter, Django ORM, deployment configs, etc
+* [Cookiecutter template](https://github.com/haron/python-project-template) for a Python project with linter, standalone Django ORM, deployment configs, etc
 * [How to deploy with Github Actions in Tailscale VPN](https://github.com/haron/tailscale-github-deploy)
 * [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - Bash script to install Tailscale in unsupported countries
 * [yt-summarize.sh](https://github.com/haron/yt-summarize.sh) - Summarize Youtube video with a bash script, using subtitles from Youtube

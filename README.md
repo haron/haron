@@ -6,14 +6,15 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
 ## My projects and posts:
 
-* [ch2rss](https://ch2rss.fflow.net) - Convert any Telegram channel into RSS feed.
+* [claude-code-setup.sh](https://github.com/haron/claude-code-setup.sh) - setup Claude to handle issues in your repo.
+* [ch2rss](https://ch2rss.fflow.net) - convert any Telegram channel into RSS feed.
 * [Cookiecutter template](https://github.com/haron/python-project-template) for a Python project with linter, standalone Django ORM, deployment configs, etc.
 * [Export Linkedin profile in JSON Resume format using CLI tools](https://gist.github.com/haron/39852d7b05a924a64f620a7d189b3e86).
 * [How to deploy with Github Actions in Tailscale VPN](https://github.com/haron/tailscale-github-deploy).
-* [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - Bash script to install Tailscale in unsupported countries.
-* [yt-summarize.sh](https://github.com/haron/yt-summarize.sh) - Summarize Youtube video with a bash script, using subtitles from Youtube.
+* [Tailscale install 451](https://gist.github.com/haron/8b2a6244e124766ee0d6396389ac7f34) - bash script to install Tailscale in unsupported countries.
+* [yt-summarize.sh](https://github.com/haron/yt-summarize.sh) - summarize Youtube video with a bash script, using subtitles from Youtube.
 * [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - CLI tool and Python library to download Youtube videos transcripts.
-* [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - Transcribe Youtube video using Whisper, then summarize it with Llama model.
+* [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - transcribe Youtube video using Whisper, then summarize it with Llama model.
 
 ### My Telegram bots:
 

@@ -6,7 +6,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
 ## My projects and posts:
 
-* [epub-to-audiobook](https://github.com/haron/epub-to-audiobook) - generage audiobook from EPUB file using cloud GPU
+* [epub-to-audiobook](https://github.com/haron/epub-to-audiobook) - generage audiobook from EPUB file using cloud GPU.
 * [claude-code-setup.sh](https://github.com/haron/claude-code-setup.sh) - setup Claude to handle issues in your repo.
 * [ch2rss](https://ch2rss.fflow.net) - convert any Telegram channel into RSS feed.
 * [Cookiecutter template](https://github.com/haron/python-project-template) for a Python project with linter, standalone Django ORM, deployment configs, etc.

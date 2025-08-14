@@ -1,4 +1,4 @@
-Systems guy: keeping things up & automated. Sysadmin, DevOps, SRE. Also Python programming.
+Systems guy: keeping things up & automated. Python developer, Sysadmin, DevOps, SRE.
 
 Moscow 🛫 Yerevan 🛫 Tel Aviv.
 

@@ -6,7 +6,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
 ## My projects and posts:
 
-* [news.sh](https://github.com/haron/news.sh) - hackable personal news reader in Bash
+* [news.sh](https://github.com/haron/news.sh) - hackable personal news reader in Bash pipes. 
 * [trn](https://github.com/haron/trn) - CLI tool for translating text using LLM.
 * [epub-to-audiobook](https://github.com/haron/epub-to-audiobook) - generage audiobook from EPUB file using cloud GPU.
 * [claude-code-setup.sh](https://github.com/haron/claude-code-setup.sh) - setup Claude to handle issues in your repo.

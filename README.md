@@ -21,6 +21,7 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
 ### My Telegram bots:
 
+* [\@web2epub_converter_bot](https://t.me/web2epub_converter_bot) - Create an EPUB e-book from web pages.
 * [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
 * [\@platon_platon_bot](https://t.me/platon_platon_bot) - Plato bot summarizes articles and Youtube videos as a Platonic dialog.
 * [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique. Has counted 60M minutes in 200K Telegram chats during 10 years.

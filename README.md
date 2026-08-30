@@ -2,9 +2,19 @@ Systems guy: keeping things up & automated. Python developer and DevOps.
 
 Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
-[Today I Learned](https://www.alexryabov.com/til/).
+## My Telegram bots:
 
-## My projects and posts:
+* [\@platon_platon_bot](https://t.me/platon_platon_bot) - Plato bot summarizes articles and Youtube videos as a Platonic dialog.
+* [\@web2epub_converter_bot](https://t.me/web2epub_converter_bot) - Create an EPUB e-book from web pages.
+* [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
+* [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique. Has counted 60M minutes in 200K Telegram chats during 10 years.
+* [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name. Bothering you with alerts since 2015.
+* [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.
+* [\@upscale_me_bot](https://t.me/upscale_me_bot) - Photo upscaler bot.
+* [\@SnoozeBot](https://t.me/snoozebot) - Reminds you of messages, be it tomorrow or in 5 years.
+* [\@WindSpeedBot](https://t.me/windspeedbot) - Alerts you to wind speeds at chosen locations. For example, it can send a message if tomorrow's wind is expected to exceed 5 m/s.
+
+## My other projects and posts:
 
 * [news.sh](https://github.com/haron/news.sh) - hackable personal news reader in Bash pipes. 
 * [trn](https://github.com/haron/trn) - CLI tool for translating text using LLM.
@@ -19,14 +29,4 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 * [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - CLI tool and Python library to download Youtube videos transcripts.
 * [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - transcribe Youtube video using Whisper, then summarize it with Llama model.
 
-### My Telegram bots:
-
-* [\@web2epub_converter_bot](https://t.me/web2epub_converter_bot) - Create an EPUB e-book from web pages.
-* [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
-* [\@platon_platon_bot](https://t.me/platon_platon_bot) - Plato bot summarizes articles and Youtube videos as a Platonic dialog.
-* [\@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) - Timer for Pomodoro Technique. Has counted 60M minutes in 200K Telegram chats during 10 years.
-* [\@watch_bot](https://t.me/watch_bot) - Website monitoring, including SSL certificate, domain name expiration and new records in Certificate Transparency log for your domain name. Bothering you with alerts since 2015.
-* [\@dead_man_switch_bot](https://t.me/dead_man_switch_bot) - Cron job monitoring bot will alert you when your cron jobs fail.
-* [\@upscale_me_bot](https://t.me/upscale_me_bot) - Photo upscaler bot.
-* [\@SnoozeBot](https://t.me/snoozebot) - Reminds you of messages, be it tomorrow or in 5 years.
-* [\@WindSpeedBot](https://t.me/windspeedbot) - Alerts you to wind speeds at chosen locations. For example, it can send a message if tomorrow's wind is expected to exceed 5 m/s.
+[Today I Learned](https://www.alexryabov.com/til/).

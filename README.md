@@ -2,8 +2,9 @@ Systems guy: keeping things up & automated. Python developer and DevOps.
 
 Moscow 🛫 Yerevan 🛫 Tel Aviv.
 
-## My Telegram bots:
+## My Telegram bots and related projects:
 
+* [ch2rss](https://ch2rss.fflow.net) - convert any Telegram channel into RSS feed.
 * [\@platon_platon_bot](https://t.me/platon_platon_bot) - Plato bot summarizes articles and Youtube videos as a Platonic dialog.
 * [\@web2epub_converter_bot](https://t.me/web2epub_converter_bot) - Create an EPUB e-book from web pages.
 * [\@parallel_reading_bot](https://t.me/parallel_reading_bot) - Learn languages using Parallel Reading method.
@@ -20,7 +21,6 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 * [trn](https://github.com/haron/trn) - CLI tool for translating text using LLM.
 * [epub-to-audiobook](https://github.com/haron/epub-to-audiobook) - generage audiobook from EPUB file using cloud GPU.
 * [claude-code-setup.sh](https://github.com/haron/claude-code-setup.sh) - setup Claude to handle issues in your repo.
-* [ch2rss](https://ch2rss.fflow.net) - convert any Telegram channel into RSS feed.
 * [Cookiecutter template](https://github.com/haron/deploy-template) for a Python project with linter, standalone Django ORM, deployment configs, etc.
 * [Export Linkedin profile in JSON Resume format using CLI tools](https://gist.github.com/haron/39852d7b05a924a64f620a7d189b3e86).
 * [How to deploy with Github Actions in Tailscale VPN](https://github.com/haron/tailscale-github-deploy).

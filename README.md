@@ -30,3 +30,5 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 * [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - transcribe Youtube video using Whisper, then summarize it with Llama model.
 
 [Today I Learned](https://www.alexryabov.com/til/).
+
+[Stencils](https://stencilwall.tumblr.com). 

@@ -29,6 +29,4 @@ Moscow 🛫 Yerevan 🛫 Tel Aviv.
 * [yt-dlp-transcript](https://github.com/haron/yt-dlp-transcript) - CLI tool and Python library to download Youtube videos transcripts.
 * [yt-transcribe-summarize](https://github.com/haron/yt-transcribe-summarize) - transcribe Youtube video using Whisper, then summarize it with Llama model.
 
-[Today I Learned](https://www.alexryabov.com/til/).
-
-[Stencils](https://stencilwall.tumblr.com). 
+[Today I Learned](https://www.alexryabov.com/til/). 
